@@ -1,1 +1,2 @@
-# RoomR
+# Roomr
+Sample React Native Assignment

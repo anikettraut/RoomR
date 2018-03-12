@@ -1,0 +1,35 @@
+{
+  "name": "Roomr",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "16.0.0",
+    "react-native": "0.50.0",
+    "react-native-camera": "^1.0.1",
+    "react-native-elements": "^0.19.0",
+    "react-native-fontawesome": "^5.7.0",
+    "react-native-multiple-tags": "0.0.35",
+    "react-native-popup-dialog": "^0.10.46",
+    "react-native-router-flux": "^4.0.0-beta.28",
+    "react-native-search-filter": "^0.1.3",
+    "react-native-splash-screen": "^3.0.6",
+    "react-native-vector-icons": "^4.5.0",
+    "react-redux": "^5.0.7",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "sort-json-array": "^0.1.7"
+  },
+  "devDependencies": {
+    "babel-jest": "22.4.1",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.4.2",
+    "react-test-renderer": "16.0.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

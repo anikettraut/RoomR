@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/aniketraut/Documents/Roomr/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/aniketraut/Documents/Roomr/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/aniketraut/Documents/Roomr/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/aniketraut/Documents/Roomr/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/aniketraut/Documents/Roomr/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/aniketraut/Documents/Roomr/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/aniketraut/Documents/Roomr/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/aniketraut/Documents/Roomr/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.1/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
